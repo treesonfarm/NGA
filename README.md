@@ -9,8 +9,7 @@
 
 ## LSMS-ISA data sets and Sampling
 
-Get Raw Data
- [![]({{ site.baseurl }}/assets/images/lsms-isa.png){: width="200px"}](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/EXTLSMS/0,,contentMDK:23635521~pagePK:64168445~piPK:64168309~theSitePK:3358997,00.html)
+ [Get Raw Data](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/EXTLSMS/0,,contentMDK:23635521~pagePK:64168445~piPK:64168309~theSitePK:3358997,00.html)
 
 # Sampling weight
 
